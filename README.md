@@ -25,7 +25,7 @@ Blue Bus is a project built to demonstrate **Object-Oriented Programming (OOP)**
 Follow these steps to get the project running on your local machine.
 1. **Clone the repository**
 ```bash
-    git clone https://github.com/RiShAv-MaNdAl3122/LibraryManagementSystem
+    git clone https://github.com/RiShAv-MaNdAl3122/LibraryManagementSystem.git
 
 ```
 2. **Compile the code**\
